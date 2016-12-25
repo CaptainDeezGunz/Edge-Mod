@@ -11,6 +11,8 @@ namespace EdgeMod.Projectiles.Summons
             projectile.netImportant = true;
             projectile.name = "Butterfly";
             projectile.width = 24;
+            projectile.height = 24;
+            Main.projFrames[projectile.type] = 1;
             projectile.friendly = true;
             Main.projPet[projectile.type] = true;
             projectile.minion = true;
@@ -22,6 +24,7 @@ namespace EdgeMod.Projectiles.Summons
             ProjectileID.Sets.MinionSacrificable[projectile.type] = true;
             ProjectileID.Sets.Homing[projectile.type] = true;
             inertia = 20f;
+            shoot = mod.ProjectileType("Spark");
             shootSpeed = 12f;
         }
 

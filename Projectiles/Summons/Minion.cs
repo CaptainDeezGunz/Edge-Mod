@@ -1,5 +1,6 @@
 ﻿using Terraria.ModLoader;
 
+namespace EdgeMod.Projectiles.Summons
 {
     public abstract class Minion : ModProjectile
     {
