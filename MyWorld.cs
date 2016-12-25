@@ -12,4 +12,10 @@ namespace Edge
 {
     public class MyWorld : ModWorld
     {
+        public static void Main()
+        {
+
+        }
+    }
+}
        

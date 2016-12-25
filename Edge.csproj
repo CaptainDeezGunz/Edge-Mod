@@ -64,6 +64,7 @@
     <Compile Include="Edge.cs" />
     <Compile Include="Items\DuckCall.cs" />
     <Compile Include="Items\TheEndBook.cs" />
+    <Compile Include="Items\Weapons\ButterflyStaff.cs" />
     <Compile Include="Items\Weapons\CrystalStar.cs" />
     <Compile Include="Items\Weapons\LunarClaymore.cs" />
     <Compile Include="Items\Weapons\TrueStarCannon.cs" />
