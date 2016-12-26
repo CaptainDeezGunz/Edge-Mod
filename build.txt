@@ -1,5 +1,5 @@
 author = CaptainDeezGunz
-version = 
+version = 0.1
 displayName = Edge
 homepage = 
 hideCode = true

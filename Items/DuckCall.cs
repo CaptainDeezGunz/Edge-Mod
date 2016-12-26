@@ -9,7 +9,9 @@ namespace Edge.Items
         public override void SetDefaults()
         {
             item.CloneDefaults(ItemID.ZephyrFish);
-            item.name = "Duck";
+            item.name = "Duck Call";
+            item.width = 28;
+            item.height = 28;
             item.toolTip = "Summons a pet Duck that will follow you.";
             item.shoot = mod.ProjectileType("Duck");
             item.buffType = mod.BuffType("DuckBuff");

@@ -1,0 +1,6 @@
+C:\Users\Maciek\Documents\My games\Terraria\ModLoader\Mod Sources\Edge-Mod\bin\Debug\Edge.dll
+C:\Users\Maciek\Documents\My games\Terraria\ModLoader\Mod Sources\Edge-Mod\bin\Debug\Edge.pdb
+C:\Users\Maciek\Documents\My games\Terraria\ModLoader\Mod Sources\Edge-Mod\bin\Debug\Terraria.exe
+C:\Users\Maciek\Documents\My games\Terraria\ModLoader\Mod Sources\Edge-Mod\obj\Debug\Edge.csprojResolveAssemblyReference.cache
+C:\Users\Maciek\Documents\My games\Terraria\ModLoader\Mod Sources\Edge-Mod\obj\Debug\Edge.dll
+C:\Users\Maciek\Documents\My games\Terraria\ModLoader\Mod Sources\Edge-Mod\obj\Debug\Edge.pdb
